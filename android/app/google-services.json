@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "503962735919",
+    "project_id": "jamespharmacy-ae45f",
+    "storage_bucket": "jamespharmacy-ae45f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503962735919:android:adb839942e8b2676e23dda",
+        "android_client_info": {
+          "package_name": "com.mycompany.madafaadvocateswebsite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMei2SrAHk-u5Z7EYOc4Xr7Xf3lc-v1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503962735919:android:10cf964d55430a1fe23dda",
+        "android_client_info": {
+          "package_name": "james.Pharmacy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMei2SrAHk-u5Z7EYOc4Xr7Xf3lc-v1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503962735919:android:62048dea5dc4dbd6e23dda",
+        "android_client_info": {
+          "package_name": "rubondoPharmacy.esoechCompany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMei2SrAHk-u5Z7EYOc4Xr7Xf3lc-v1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
